@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS-practice",
+  "version": "1.0.0",
+  "description": "This repository is created solely to learn and practice NodeJS from scratch.",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manas3874/NodeJS-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manas3874/NodeJS-practice/issues"
+  },
+  "homepage": "https://github.com/manas3874/NodeJS-practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
